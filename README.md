@@ -1,1 +1,1 @@
-# logit_spark
+Example Python code to estimate a simple logistic regression for event analysis in PySpark and collect additional unsupported output such as marginal effects and standardized beta coefficients manually and quickly.
